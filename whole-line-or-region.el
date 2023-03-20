@@ -83,8 +83,6 @@
 
 (defcustom whole-line-or-region-visual-p nil
   "Whether or not visual lines are targeted."
-  :group 'editing-basics
-  :group 'convenience
   :type 'boolean)
 
 ;;; Keymap
